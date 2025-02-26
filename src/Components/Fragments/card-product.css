@@ -1,0 +1,7 @@
+.image-card {
+    @apply w-full h-[320px] object-cover;
+}
+
+.title {
+    @apply whitespace-nowrap overflow-hidden text-ellipsis;
+}

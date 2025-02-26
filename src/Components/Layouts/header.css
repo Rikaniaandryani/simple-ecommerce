@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.left-section {
+    @apply flex items-center justify-center;
+}
+.list-menu {
+    @apply list-none flex items-center justify-center text-2xl ml-[20px];
+}
